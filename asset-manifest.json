@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chess-master/static/css/main.176b1d42.css",
+    "main.js": "/chess-master/static/js/main.457a5a06.js",
+    "index.html": "/chess-master/index.html",
+    "main.176b1d42.css.map": "/chess-master/static/css/main.176b1d42.css.map",
+    "main.457a5a06.js.map": "/chess-master/static/js/main.457a5a06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176b1d42.css",
+    "static/js/main.457a5a06.js"
+  ]
+}
